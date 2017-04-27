@@ -19,7 +19,7 @@ for initial in artist_initial:
     artists = getListOfArtist(artist_list_url)
     totalArtists = len(artists)
     print "crawling artists starting with " + initial
-    for i in range(2):
+    for i in range(totalArtists):
         # visualize the progress when each artist is done crawling
         print "{0:.3f}%\r".format((i+1) / float(totalArtists) * 100),
         sys.stdout.flush()
