@@ -1,0 +1,115 @@
+DEBUG:root:getting artists for http://lyrics123.net/artists/a
+DEBUG:root:getting songs for http://lyrics123.net/amb/
+DEBUG:root:get a Song object from http://lyrics123.net/amb/all-day/
+WARNING:root:http://lyrics123.net/amb/all-day/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/amb/all-i-know/
+WARNING:root:http://lyrics123.net/amb/all-i-know/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/amb/blood-in/
+WARNING:root:http://lyrics123.net/amb/blood-in/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/amb/blood-out/
+WARNING:root:http://lyrics123.net/amb/blood-out/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/amb/calm-down/
+WARNING:root:http://lyrics123.net/amb/calm-down/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/amb/chips-n-dip/
+WARNING:root:http://lyrics123.net/amb/chips-n-dip/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/amb/cocaine/
+WARNING:root:http://lyrics123.net/amb/cocaine/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/amb/god-only-knows/
+WARNING:root:http://lyrics123.net/amb/god-only-knows/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/amb/heatseeker/
+WARNING:root:http://lyrics123.net/amb/heatseeker/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/amb/honor/
+WARNING:root:http://lyrics123.net/amb/honor/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/amb/imagine-this/
+WARNING:root:http://lyrics123.net/amb/imagine-this/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/amb/old-girl/
+WARNING:root:http://lyrics123.net/amb/old-girl/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/amb/right-now/
+WARNING:root:http://lyrics123.net/amb/right-now/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/amb/scream-my-name/
+WARNING:root:http://lyrics123.net/amb/scream-my-name/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/amb/seethru/
+WARNING:root:http://lyrics123.net/amb/seethru/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/amb/selfish/
+WARNING:root:http://lyrics123.net/amb/selfish/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/amb/still-alive/
+WARNING:root:http://lyrics123.net/amb/still-alive/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/amb/takin-it-away/
+WARNING:root:http://lyrics123.net/amb/takin-it-away/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/amb/the-demon/
+WARNING:root:http://lyrics123.net/amb/the-demon/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/amb/west-side-wicked/
+WARNING:root:http://lyrics123.net/amb/west-side-wicked/ has no album
+DEBUG:root:getting songs for http://lyrics123.net/ana-victoria/
+WARNING:root:http://lyrics123.net/ana-victoria/ has no songs
+DEBUG:root:getting artists for http://lyrics123.net/artists/b
+DEBUG:root:getting songs for http://lyrics123.net/be-your-own-pet/
+DEBUG:root:get a Song object from http://lyrics123.net/be-your-own-pet/becky/
+DEBUG:root:get a Song object from http://lyrics123.net/be-your-own-pet/bitches-leave/
+DEBUG:root:get a Song object from http://lyrics123.net/be-your-own-pet/black-hole/
+DEBUG:root:get a Song object from http://lyrics123.net/be-your-own-pet/blow-your-mind/
+DEBUG:root:get a Song object from http://lyrics123.net/be-your-own-pet/bummer-time/
+DEBUG:root:get a Song object from http://lyrics123.net/be-your-own-pet/creepy-crawl/
+DEBUG:root:get a Song object from http://lyrics123.net/be-your-own-pet/food-fight/
+DEBUG:root:get a Song object from http://lyrics123.net/be-your-own-pet/heart-throb/
+DEBUG:root:get a Song object from http://lyrics123.net/be-your-own-pet/super-soaked/
+DEBUG:root:get a Song object from http://lyrics123.net/be-your-own-pet/the-best-within/
+DEBUG:root:get a Song object from http://lyrics123.net/be-your-own-pet/the-kelly-affair/
+DEBUG:root:get a Song object from http://lyrics123.net/be-your-own-pet/twisted-nerve/
+DEBUG:root:get a Song object from http://lyrics123.net/be-your-own-pet/whats-your-damage/
+DEBUG:root:get a Song object from http://lyrics123.net/be-your-own-pet/youre-a-waste/
+DEBUG:root:get a Song object from http://lyrics123.net/be-your-own-pet/zombie-graveyard-party/
+DEBUG:root:getting songs for http://lyrics123.net/british-sea-power/
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/a-wooden-horse/
+WARNING:root:http://lyrics123.net/british-sea-power/a-wooden-horse/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/all-in-it/
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/atom/
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/atom-main/
+WARNING:root:http://lyrics123.net/british-sea-power/atom-main/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/be-gone/
+WARNING:root:http://lyrics123.net/british-sea-power/be-gone/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/blackout/
+WARNING:root:http://lyrics123.net/british-sea-power/blackout/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/canvey-island/
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/come-wander-with-me/
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/down-on-the-ground/
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/favours-in-the-beetroot-fields/
+WARNING:root:http://lyrics123.net/british-sea-power/favours-in-the-beetroot-fields/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/fear-of-drowning/
+WARNING:root:http://lyrics123.net/british-sea-power/fear-of-drowning/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/hearing-aid/
+WARNING:root:http://lyrics123.net/british-sea-power/hearing-aid/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/how-will-i-ever-find-my-way-home/
+WARNING:root:http://lyrics123.net/british-sea-power/how-will-i-ever-find-my-way-home/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/it-ended-on-an-oily-stage/
+WARNING:root:http://lyrics123.net/british-sea-power/it-ended-on-an-oily-stage/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/lights-out-for-darker-skies/
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/like-a-honeycomb/
+WARNING:root:http://lyrics123.net/british-sea-power/like-a-honeycomb/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/no-lucifer/
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/no-need-to-cry/
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/north-hanging-rock/
+WARNING:root:http://lyrics123.net/british-sea-power/north-hanging-rock/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/oh-larsen-b/
+WARNING:root:http://lyrics123.net/british-sea-power/oh-larsen-b/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/open-the-door/
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/please-stand-up/
+WARNING:root:http://lyrics123.net/british-sea-power/please-stand-up/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/remember-me/
+WARNING:root:http://lyrics123.net/british-sea-power/remember-me/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/something-wicked/
+WARNING:root:http://lyrics123.net/british-sea-power/something-wicked/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/straight-down-the-line/
+WARNING:root:http://lyrics123.net/british-sea-power/straight-down-the-line/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/the-land-beyond/
+WARNING:root:http://lyrics123.net/british-sea-power/the-land-beyond/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/the-lonely/
+WARNING:root:http://lyrics123.net/british-sea-power/the-lonely/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/to-get-to-sleep/
+WARNING:root:http://lyrics123.net/british-sea-power/to-get-to-sleep/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/true-adventures/
+WARNING:root:http://lyrics123.net/british-sea-power/true-adventures/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/victorian-ice/
+WARNING:root:http://lyrics123.net/british-sea-power/victorian-ice/ has no album
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/waving-flags/
+DEBUG:root:get a Song object from http://lyrics123.net/british-sea-power/we-close-our-eyes/
